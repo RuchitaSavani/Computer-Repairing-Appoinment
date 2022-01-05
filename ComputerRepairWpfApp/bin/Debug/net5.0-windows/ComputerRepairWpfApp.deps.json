@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ComputerRepairWpfApp/1.0.0": {
+        "dependencies": {
+          "ComputerRepair": "1.0.0"
+        },
+        "runtime": {
+          "ComputerRepairWpfApp.dll": {}
+        }
+      },
+      "ComputerRepair/1.0.0": {
+        "runtime": {
+          "ComputerRepair.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ComputerRepairWpfApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ComputerRepair/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

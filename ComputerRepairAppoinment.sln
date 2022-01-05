@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputerRepair", "ComputerRepair\ComputerRepair.csproj", "{7A3824E2-53ED-4F34-8909-83882F215CBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ComputerRepairWpfApp", "ComputerRepairWpfApp\ComputerRepairWpfApp.csproj", "{B3C551D9-48C6-4F77-AD0B-F75F9E12C79D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A3824E2-53ED-4F34-8909-83882F215CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3824E2-53ED-4F34-8909-83882F215CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3824E2-53ED-4F34-8909-83882F215CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3824E2-53ED-4F34-8909-83882F215CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C551D9-48C6-4F77-AD0B-F75F9E12C79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C551D9-48C6-4F77-AD0B-F75F9E12C79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C551D9-48C6-4F77-AD0B-F75F9E12C79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C551D9-48C6-4F77-AD0B-F75F9E12C79D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8251EB91-51A9-4718-ADC7-210D1EDB8EC1}
+	EndGlobalSection
+EndGlobal

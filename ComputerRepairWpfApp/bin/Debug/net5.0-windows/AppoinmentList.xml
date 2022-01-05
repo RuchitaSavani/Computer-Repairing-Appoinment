@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppointmentList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Appointment>
+    <Time>10:00 AM</Time>
+    <Laptop xsi:type="SoftwareIssue">
+      <FullName>ruchi</FullName>
+      <ModelNumber>AA 123456</ModelNumber>
+      <ItemDescription>cdjcndcndvnmvmvd</ItemDescription>
+      <PhoneNumber>1234567890</PhoneNumber>
+      <IssueWithDevice>Issue in software</IssueWithDevice>
+    </Laptop>
+    <Warrenty>No</Warrenty>
+  </Appointment>
+</AppointmentList>
